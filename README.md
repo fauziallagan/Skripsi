@@ -1,8 +1,8 @@
 # Sistem-Cerdas-IKN
-Run Website -> 192.168.4.1
+Run Website -> 192.168.1.105/irigasi-tetes
 
 # Schematic Lora Server
-![Logo](https://github.com/multimedia-dan-robotika/Sistem-Cerdas-IKN/blob/main/updateSkema.PNG)
+![Logo](https://github.com/fauziallagan/Skripsi/blob/main/skematikSmartFarm%20update_bb.png)
 
 # Schematic Lora Client
 ![Logo](https://github.com/fauziallagan/Skripsi/blob/main/Skematik%20Client.png)

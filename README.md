@@ -5,7 +5,7 @@ Run Website -> 192.168.4.1
 ![Logo](https://github.com/multimedia-dan-robotika/Sistem-Cerdas-IKN/blob/main/updateSkema.PNG)
 
 # Schematic Lora Client
-![Logo](https://github.com/multimedia-dan-robotika/Sistem-Cerdas-IKN/blob/main/schematicFinalloraSensors.PNG)
+![Logo](https://github.com/fauziallagan/Skripsi/blob/main/Skematik%20Client.png)
 
 # Documentation
 
